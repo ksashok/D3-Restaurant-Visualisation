@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+
+<head>
+    <title>Restaurants Analysis</title>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+     <link rel="stylesheet" href="style.css">
+    </head>
+    
+<body>
+
+
+<script type="text/javascript" src="bubble.js"></script>
+    
+
+    <p id="Heading">
+        <svg height="300" width="1200">
+        <image x="0" y="20" width="1200" height="300" xlink:href="head.png" />
+        </svg>
+    
+        <svg height="300" width="1200">
+        <text x="50" y="50">
+        <tspan font-weight="bold" fill="black" font-size="50">Restaurant Reviews and Ratings</tspan>
+        <tspan x=50 dy="50" font-size="30">How it can affect your business?</tspan>
+        <tspan x=50 dy="55" font-size="30">What is happening to your restaurant?</tspan>
+        <tspan x=50 dy="55" font-size="30">Where to invest?</tspan>
+        <tspan x=900 dy="50" font-size="20">Scroll Down to explore </tspan>
+        </text>
+        <image x="900" y="150" width="100" height="100" xlink:href="down.gif" />
+        <image x="950" y="150" width="100" height="100" xlink:href="down.gif" />
+        </svg>
+        <svg height="5" width="1200">
+        <line x1="0" y1="0" x2="1200" y2="0" style="stroke:rgb(0,0,0);stroke-width:5" />
+        </svg>
+    </p>
+    
+    
+    
+    <p id="BubbleChart">
+      <script src="bubble.js"></script>
+        <svg height="600" width="600">
+        <text x="50" y="100">
+        <tspan font-weight="bold" font-size="50">Number of Restaurants</tspan>
+        <tspan x=50 dy="50" font-weight="bold" font-size="50">based on Location</tspan>
+        <tspan x=50 dy="40">We can know which location has the most number of restarurants</tspan>
+        <tspan x=50 dy="25">Also we can know the number of reviews</tspan>
+        
+        <tspan x=50 dy="350">Tip : Mouseover to see the number of restaurants and total number of reviews</tspan>
+        <tspan x=50 dy="25">for each location</tspan>
+        </text>
+        </svg>
+        <svg height="5" width="1200">
+        <line x1="0" y1="0" x2="1200" y2="0" style="stroke:rgb(0,0,0);stroke-width:5" />
+        </svg>
+    </p>
+        
+    <p id="Checkins">
+        <script src="checkins.js"></script>
+        <svg height="600" width="400">
+        <text x="50" y="50">
+        <tspan font-weight="bold" font-size="50">Number of</tspan>
+        <tspan x=50 dy="50" font-weight="bold" font-size="50">Checkins by day</tspan>
+        <tspan x=50 dy="40">We can know which day of the week and time</tspan>
+        <tspan x=50 dy="25">would have the most number of clients</tspan>
+        
+        <tspan x=50 dy="350">Tip : Click on the day of the week to disable or enable</tspan>
+        <tspan x=50 dy="25">the line chart for that day</tspan>
+        </text>
+        </svg>
+        <svg height="5" width="1200">
+        <line x1="0" y1="0" x2="1200" y2="0" style="stroke:rgb(0,0,0);stroke-width:5" />
+        </svg>
+    
+    </p>
+        <h1 align="center">Top Restaurants Donut Chart</h1>
+    <h4 align="center">Tip : Hover over the Restaurant Name to see more details</h6>
+    <div id="chart"></div>
+        <script src="donut.js"></script>
+        <script>
+            var donut = donutChart()
+                .width(960)
+                .height(500)
+                .cornerRadius(3) // sets how rounded the corners are on each slice
+                .padAngle(0.015) // effectively dictates the gap between slices
+                .variable('ReviewCount')
+                .category('Name');
+
+            d3.tsv('top_rest.tsv', function(error, data) {
+                if (error) throw error;
+                d3.select('#chart')
+                    .datum(data) // bind data to the div
+                    .call(donut); // draw chart in div
+            });
+            
+        </script>
+
+        <svg height="5" width="1200">
+        <line x1="0" y1="0" x2="1200" y2="0" style="stroke:rgb(0,0,0);stroke-width:5" />
+        </svg>
+ 
+    
+    <h1 align="center">Restaurant Rating based on day of the week</h1>
+    <h4 align="center">Tip : Hover over the day to see the corresponding date and the rating given</h6>
+    <p id="calendar">
+        <script src="calendar.js"></script>
+        <svg height="5" width="1200">
+        <line x1="0" y1="0" x2="1200" y2="0" style="stroke:rgb(0,0,0);stroke-width:5" />
+        </svg>
+    </p>
+    
+    
+    
+
+    
+    <p id="LineChart">
+      <script src="linechart.js"></script>
+        <svg height="600" width="500">
+        <text x="50" y="100">
+        <tspan font-weight="bold" font-size="50">Number of</tspan>
+        <tspan x=50 dy="50" font-weight="bold" font-size="50">New Reviewers</tspan>
+        <tspan x=50 dy="40">We can know which location has the most number of restarurants</tspan>
+        <tspan x=50 dy="25">Also we can know the number of reviews</tspan>
+        
+        <tspan x=50 dy="300">Tip : Mouseover to see the number of new users</tspan>
+        <tspan x=50 dy="25">for each year</tspan>
+        </text>
+        </svg>
+        
+    
+    </p>
+    
+
+    
+</body>

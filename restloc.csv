@@ -1,0 +1,783 @@
+City,Count of Business Id,Review Count per Document
+Youngtown,9,214
+York,51,700
+Woodmere Village,1,256
+Woodmere,18,1932
+Woodbridge,81,1614
+Wolfschlugen,1,3
+Windsor,4,99
+Wilmerding,7,57
+Willowick,24,396
+Willowdale,2,11
+Willoughby Hills,14,330
+Willoughby,99,2441
+Wilkinsburg,4,42
+Wilkins Township,1,53
+Wilkens Township,1,3
+Wickliffe,19,204
+WICKLIFFE,7,155
+Whtiby,2,10
+White Oak,15,189
+Whitchurch-Stouffville,27,524
+Whitby,184,2141
+Whiitby,1,12
+Wexford,59,1882
+Wethau,1,8
+Westmount,40,626
+Westlake,121,4607
+West View,5,154
+West Mifflin,39,575
+West Homestead,7,446
+West Elizabeth,2,6
+West Akron,1,85
+Wesley Chapel,7,325
+Weddington,2,29
+Waxhaw,43,1161
+Waunakee,22,474
+Warrensville Hts.,1,34
+Warrensville Heights,15,471
+Warrensvile Heights,1,14
+Walton Hills,1,58
+Waiblingen,33,280
+Waddell,1,21
+Vimont,3,39
+Villa Grove,1,6
+Verona,55,1306
+Verdun,86,1208
+Venetia,1,34
+Vaughan,411,9475
+Vaudreuil-Dorion,36,174
+Varennes,1,3
+Vanier,4,28
+Valley View,12,781
+Valley City,7,178
+Urbana,117,4932
+Upper St Clair,2,95
+Upper Saint Clair,4,171
+University Heights,14,598
+Unionville,23,1096
+Twinsburg,46,1110
+Tuscola,16,211
+Turtle Creek,10,141
+Troy Township,1,10
+Tremont,1,271
+Tranent,1,3
+Trafford,12,128
+Township of Concord,1,3
+Tottenham,1,11
+toronto,1,46
+Toronto,7148,303757
+Tornto,1,122
+Topaz,1,20
+Tolono,1,8
+Tolleson,32,1179
+Tigre,1,6
+Thornhill,143,5257
+Thornhil,1,17
+Thorncliffe Park,1,11
+Terrebonne,12,52
+Tempe,962,93183
+Tega Cay,12,524
+Tallmadge,23,407
+Swissvale,3,21
+Surprise,207,14263
+Sun Prairie,74,2114
+Sun Lakes,9,194
+Sun City West,14,300
+Sun City,45,1106
+Summerlin South,1,3
+Summerlin,1,593
+Stuttgart-Vaihingen,1,36
+Stuttgart,1050,17875
+Sturgeon,1,3
+Strongsville,113,3820
+Streetsville,1,5
+Streetsboro,43,916
+Stowe,2,33
+Stow,79,1801
+Stoughton,38,662
+Stouffville,25,311
+Stoney Creek,2,22
+Stockbridge,3,75
+Stetten,1,4
+Steinenbronn,6,27
+Ste-Therese-de-Blainville,1,3
+Ste-Rose,1,18
+Stanley,10,83
+Stallings,12,360
+St-Leonard,3,17
+St-Lazare-de-Vaudreuil,1,6
+St-Laurent,1,3
+St-Jerome,2,24
+St-Jean-sur-Richelieu,1,3
+St-Clet,1,3
+St-Bruno-de-Montarville,2,12
+St-Benoît de Mirabel,1,57
+St Leonard,1,9
+St Joseph,1,28
+Squirrel Hill,1,16
+Springfield,1,3
+Springdale,8,180
+Springbrook,1,3
+Spring Valley,4,1092
+Spring Hill City View,1,5
+South Queensferry,4,36
+South Park Township,2,64
+South Park,6,73
+South Las Vegas,2,449
+South Gyle,1,6
+South Euclid,27,597
+South Amherst,1,10
+Solon,73,2424
+Sindelfingen/Eichholz,1,6
+Sindelfingen,81,854
+Shorewood Hills,1,27
+Sheffield Village,11,176
+Sheffield Lake,7,46
+Sheffield,2,78
+Sharpsburg,3,137
+Shaler Township,2,42
+Shaker Heights,19,369
+Shadyside,1,23
+Sewickley,35,916
+Seven Hills,11,472
+Scottsdale,1451,179008
+Scottdale,2,438
+Scotland,2,59
+Schwieberdingen,4,35
+Schwaikheim,3,13
+Schottsdale,1,10
+Schönaich,6,49
+Schomberg,7,31
+Scarobrough,1,20
+Scaroborough,1,44
+Scarborough,516,11637
+Savoy,16,320
+San Tan Valley,15,430
+Salaberry-De-Valleyfield,5,20
+Sainte-Thérèse-de-Blainville,1,7
+Sainte-thérèse,1,3
+Sainte-Therese,5,26
+Sainte-Thérèse,5,19
+Sainte-Rose,1,3
+Sainte-Marthe,1,4
+Sainte-Marie,1,3
+Sainte-Marguerite-du-Lac-Masson,1,4
+Sainte-Madeleine,1,4
+Sainte-Julie,13,53
+Sainte-Genevieve,2,11
+Sainte-Geneviève,1,3
+Sainte-Dorothée,1,4
+Sainte-Catherine,2,11
+Sainte-Anne-De-Bellevue,7,77
+Sainte-Anne-de-Bellevue,8,58
+Sainte-Adèle,1,18
+Sainte-Adele,7,30
+Saint-Sauveur-des-Monts,2,9
+Saint-sauveur,1,4
+Saint-Sauveur,40,279
+Saint-Roch-De-L'achigan,1,3
+Saint-Pierre-de-Véronne-à-Pike-River,1,4
+Saint-Marc-Sur-Richelieu,1,5
+Saint-Marc-sur-Richelieu,1,6
+Saint-Leonard,20,158
+Saint-Lazare,4,31
+Saint-Laurent,76,869
+Saint-Lambert,19,118
+Saint-Jérôme,6,28
+Saint-Jerome,11,45
+Saint-Jean-Sur-Richelieu,4,21
+Saint-Jean-sur-Richelieu,17,86
+Saint-Hyacinthe,8,29
+Saint-Hubert,17,94
+Saint-Henri,1,29
+Saint-Eustache,13,59
+Saint-Constant,4,19
+Saint-Charles-Borromee,1,4
+Saint-Charles-Borromée,1,3
+Saint-Bruno-de-Montarville,3,11
+Saint-Bruno,1,7
+Saint-Basile-Le-Grand,1,3
+Saint Leonard,1,4
+Saint Laurent,4,41
+Saint Joseph,8,64
+Sagamore Hills,2,18
+Russellton,3,38
+Russell,1,5
+Rural Ridge,1,13
+Roxboro,1,3
+Rouses Point,5,53
+Ross Township,3,190
+Ross,1,6
+Rosemère,6,38
+Rosemere,8,33
+Roosevelt,3,38
+Rocky River,70,3516
+Robinson Twp.,1,96
+Robinson Township,8,304
+Robinson,1,139
+River Drive Park,1,12
+Rillton,1,7
+Rigaud,3,30
+Ridgeville,1,3
+Richmond Hts,1,6
+Richmond Hill,454,15090
+Richmond Hil,1,70
+Richmond Heights,7,215
+Richmond Height,1,4
+Richfield,14,357
+Rexdale,4,165
+Repentigny,4,17
+Remseck am Neckar,3,22
+Remseck,6,49
+Regional Municipality of York,1,16
+Regent Square,1,7
+Rawdon,2,7
+Ratho,1,21
+Rantoul,27,250
+Ranlo,1,21
+Queensferry,3,33
+Quartermile,1,15
+Prévost,2,7
+Prestonpans,2,7
+Presto,1,64
+Portobello,1,3
+Port Credit,2,82
+Pointe-Claire,50,679
+Pointe-Aux-Trembles,3,11
+Plum,10,120
+Plieningen,1,7
+Pleasant Hills,12,325
+Plan,1,3
+Pittsburgh,2207,125931
+Pitcairn,1,7
+Pineville,62,2639
+Pincourt,1,8
+Pierrefonds,34,284
+Piedmont,1,4
+Pickering,145,2190
+Phx,1,9
+Phoenix Valley,1,4
+Phoenix,3647,331394
+Philo,1,14
+Pheonix AZ,1,11
+Pheonix,2,18
+Peters Township,2,58
+Pepper Pike,3,220
+Peoria,341,22140
+Penn Hills,11,87
+Peninsula,6,325
+Penicuik,8,36
+Paw Creek,1,3
+Parma Heights,21,453
+Parma,93,3290
+Paradise Valley,29,2373
+Paradise,6,97
+Paoli,2,56
+Palgrave,1,3
+Painesville,48,829
+Outremont,28,526
+Ostfildern,35,228
+Oßweil,1,3
+Ormstown,2,6
+Oregon,30,478
+Orange Village,2,453
+Orange,1,19
+Olmsted Township,3,35
+Olmsted Falls,18,567
+Olivos,19,146
+Old Town,5,49
+Old Port of Montreal,1,3
+Oka,1,3
+Ogden,2,14
+Oakwood,3,11
+Oakville,324,5465
+Oakridges,1,3
+Oakmont,18,430
+Oakland,2,74
+Oakdale,14,184
+Oak Ridges,1,8
+Noyan,1,4
+Nottingham,1,79
+Northside,1,9
+Northfield Center,1,13
+Northfield,40,703
+Northbrook,1,3
+North York,425,11397
+NORTH YORK,1,24
+North Versailles,19,164
+North Toronto,1,25
+North Royalton,52,929
+North Ridgeville,26,559
+North Randall,4,98
+North Olmsted,105,3386
+North Olmstead,2,44
+North Las Vegas,325,19027
+North Huntington,1,14
+North Huntingdon,18,383
+Nobleton,6,53
+Newmarket,172,2658
+Newhaven,3,11
+Newbury,8,110
+Newbridge,1,5
+New Town,4,24
+New Kensington,34,382
+New Eagle,2,18
+Neville Island,1,6
+Neuhausen,8,55
+Nellis Air Force Base,1,4
+Nellis Afb,4,52
+Nellis AFB,2,27
+Napierville,2,7
+N. Las Vegas,2,221
+N Royalton,1,3
+N Ridgeville,1,3
+N Las Vegas,6,67
+Musselburgh,11,87
+Murrysville,32,773
+Munroe Falls,10,170
+Munhall,11,169
+Mt. Oliver Boro,1,4
+Mt. Lebanon,3,300
+Mt Lebanon,1,50
+Mount Washington,1,23
+Mount Royal,1,4
+Mount Lebanon,8,391
+Mount Horeb,23,519
+Mount Holly,24,402
+Mount Albert,6,40
+Moss,10,40
+Morin-Heights,3,10
+Morgan,1,3
+Moreland Hills,4,229
+Moon Twp,1,11
+Moon Township,7,501
+Moon,5,135
+Mooers,1,5
+Montrose,1,88
+Montreal-West,3,27
+Montreal-Ouest,1,47
+Montréal-Ouest,1,6
+Montréal-Nord,1,19
+Montreal-Nord,5,40
+Montreal,137,3985
+Montréal,3332,93366
+Monticello,17,183
+Montéal,1,8
+Mont-Saint-Hilaire,8,37
+Mont-Saint-Gregoire,3,19
+Mont-Royal,11,137
+Mont St-hilaire,1,3
+Monroeville,115,3290
+Monongahela,13,99
+Monona,52,1386
+Möglingen,4,22
+Mississuaga,1,10
+Mississauga,1304,32442
+Missisauga,4,417
+Mirabel,2,9
+Mint Hill,28,625
+Mint  Hill,1,56
+Millvale,6,120
+Midland,6,45
+Middleton,114,4746
+Middlefield,16,207
+Middleburg Heights,32,734
+Middleburg,1,3
+Mesa AZ,1,10
+MESA,20,1486
+Mesa,1119,68957
+Mercier,1,8
+Mentor-on-the-Lake,9,188
+Mentor On The Lake,1,3
+Mentor On the Lake,4,45
+Mentor On the,2,9
+Mentor,167,3716
+Medina Township,2,40
+Medina,99,2372
+McMurray,23,750
+McMasterville,1,3
+McKnight,1,22
+McKeesport,30,238
+McKees Rocks,28,390
+McFarland,9,184
+McDonald,1,8
+McCandless Township,2,91
+McCandless,1,23
+McAdenville,1,4
+Mc Murray,4,67
+Mc Kees Rocks,11,169
+Mc Farland,8,151
+Mc Donald,4,13
+Mayfield Village,5,202
+Mayfield Heights,45,1171
+Mayfield,4,107
+Matthews,186,7254
+Mattews,1,6
+Massey,1,4
+Mascouche,5,25
+Markham,760,29250
+Maple Heights,17,108
+Maple Grove,1,3
+Maple,25,349
+Mantua,8,50
+Mansfield,1,4
+Malton,1,6
+Main Street,2,6
+Mahomet,23,294
+Madison,1026,59923
+Macedonia,38,855
+M7,1,32
+Lyndhurst,33,1752
+Ludwigsburg,112,1656
+Lowesville,2,31
+Lower Lawrenceville,1,271
+Lower Burrell,7,72
+Lowell,7,161
+Lorain,45,528
+Longueuil,47,268
+Longstone,1,3
+Loanhead,1,4
+Livingston,20,93
+Litchfield Park,45,3020
+Litchfield,3,12
+Linden,2,10
+Library,3,40
+Liberty,1,11
+Leven,2,6
+Les Coteaux,1,3
+Leonberg,35,270
+Leith,2,37
+Leinfelden-Echterdingen,48,516
+Leetsdale,4,138
+Lawrence,1,12
+Laveen Village,4,132
+Laveen,34,882
+Lavaltrie,1,3
+"Laval, Ste Dorothee",1,3
+"Laval, Pont Viau",1,3
+Laval,245,2298
+LasVegas,1,170
+Lasswade,2,18
+LaSalle,2,12
+Lasalle,43,360
+las vegas,2,63
+Las vegas,1,222
+Las Vegas,5899,929592
+Las  Vegas,3,348
+Lakewood Oh,1,5
+Lakewood,169,10847
+Lake Wylie,14,566
+Lake Park,1,6
+Lagrange,5,30
+Lacolle,1,3
+Lachute,3,16
+Lachine,29,257
+Lachenaie,2,8
+La Salle,4,27
+La Prairie,11,89
+La Baie,2,7
+L'Île-Perrôt,1,10
+L'ile-Perrot,5,28
+L'Île-Perrot,5,156
+L'Île-Bizard,1,12
+L'ile-Bizard,1,8
+L'assomption,1,4
+Kornwestheim,20,132
+Korntal-Münchingen,5,22
+Kleinburg,4,46
+Kirtland,9,196
+Kirkland,22,197
+Kirkcaldy,9,32
+Kingussie,1,3
+King City,8,147
+King,5,34
+Kernen-Stetten,1,4
+Kernen im Remstal,3,19
+Kernen,7,48
+Kent,111,3054
+Kennedy Township,1,16
+Kannapolis,72,922
+Kahnawake,3,17
+Juniper Green,1,6
+Joliette,4,12
+Jefferson Hills,5,35
+Irwin,52,869
+Inverness,62,639
+Inverkeithing,2,7
+Inglewood,1,9
+Indianola,1,7
+Indian Trail,72,1803
+Indian Lands,1,16
+Indian Land,13,465
+Indian land,1,14
+Independence,48,2491
+Imperial,10,115
+Île-des-Soeurs,1,4
+Huntingdon,1,4
+Huntersville,140,7139
+Hudson,65,2276
+Houston,5,72
+Homestead,35,2055
+Homer,2,14
+Holland Landing,1,5
+Hochdorf,4,16
+Hiram,1,6
+Hinckley,1,15
+Higley,6,257
+Highland Heights,13,656
+Herminie,2,24
+Hendersonville,1,14
+Henderson,816,84576
+Hemmingford,1,3
+Hemmingen,9,84
+Heidelberg,4,84
+Hawthorne,1,6
+Haus,1,3
+Harwick,1,7
+Harrison City,6,81
+Harrisburg,45,905
+Harrisbug,1,37
+Harmarville,2,8
+Hampton Township,6,124
+Haddington,5,15
+Gullane,1,11
+Guadalupe,6,257
+Greenfield Park,10,86
+Green Valley,1,14
+Green Tree,1,90
+Grand River,2,214
+Grafton,9,126
+Gorebridge,2,6
+Goodyear,167,11989
+Goodwood,1,18
+Godmanchester,1,3
+Glenshaw,19,382
+Glenrothes,3,21
+Glendale Az,1,84
+Glendale,666,42326
+Glen Williams,1,9
+Glassport,4,21
+Glasgow,1,3
+Gilbert,524,52446
+Gifford,2,11
+Gibsonia,37,600
+Gerlingen,23,147
+Georgetown,32,270
+George Town,1,5
+Gelndale,1,10
+Gates Mills,1,53
+Gastonia,179,3831
+Garfield hts,1,3
+Garfield Heights,18,151
+Ft. Mill,1,70
+Freyburg,4,25
+Freiberg,2,7
+Frazer,18,542
+Fountain Hills,78,3339
+Fort Mill,171,5105
+Fort  Mill,1,60
+Fort McDowell,6,126
+Forest Hills,3,47
+Fitchburg,60,2353
+Fisher,1,3
+Finleyville,5,50
+Filderstadt,31,320
+Fellbach,63,584
+Farnham,2,6
+Fairview Park,25,1045
+Fairview,10,199
+Fairport Harbor,4,114
+Fairlawn,42,1426
+Fabreville,1,11
+Euclid,46,574
+Etobiicoke,2,11
+Etobicoke,283,7099
+Etna,4,63
+Estérel,1,13
+Esslingen am Neckar,14,139
+Esslingen,73,844
+Essex,1,49
+Enterprise,2,162
+Emsworth,3,84
+Elyria,83,1040
+Elrama,1,23
+Elizabeth,17,178
+El Mirage,24,589
+Edinburgh,1502,25980
+Edimbourg,1,5
+Edgewood,1,6
+Eastlake,25,502
+East York,51,963
+East Pittsburgh,2,18
+East McKeesport,1,10
+East Mc Keesport,2,17
+East Liberty,2,44
+East Gwillimbury,15,136
+East Cleveland,5,30
+East Ajax,1,27
+Dunfermline,14,53
+Dudley,1,3
+Dravosburg,4,32
+Downtown,1,73
+Dorval,44,580
+Don Mills,1,99
+Dollard-Des-Ormeaux,32,511
+Dollard-des-Ormeaux,43,446
+Dollard-Des Ormeaux,1,35
+Dollard-des Ormeaux,1,8
+Ditzingen,15,100
+Denkendorf,5,24
+Delson,4,38
+DeForest,9,264
+De Forest,13,166
+Davidson,29,2142
+Dane,3,16
+Dallas,16,136
+Dalkeith,8,39
+Dalgety Bay,1,3
+Cuyahoga Heights,1,3
+Cuyahoga Fls,1,5
+Cuyahoga Falls,132,3646
+Currie,1,4
+Cuddy,2,10
+Cross Plains,11,104
+Crescent,1,6
+Creighton,1,10
+Cramerton,9,322
+Crafton,5,86
+Cottage Grove,14,224
+Cote-Saint-Luc,2,12
+Cote Saint-Luc,2,7
+Cornelius,98,4013
+Coraopolis,73,1617
+Copley,10,207
+Concord Twp,1,5
+Concord Mills,3,259
+Concord,313,9177
+Communauté-Urbaine-de-Montréal,1,11
+columbia station,5,63
+Columbia Station,1,4
+clinton,2,31
+Cleveland Hghts.,1,24
+Cleveland Heights,67,5006
+Cleveland,1364,65133
+Clarkson,2,15
+Clark,1,14
+Clairton,8,118
+City of Edinburgh,2,12
+Churubusco,1,9
+"Chomedey, Laval",1,3
+Cheswick,10,73
+Chesterland,21,645
+"Chester, UK",1,5
+Chester Township,1,60
+Chester,64,296
+Chertsey,1,5
+Chateauguay,13,52
+Châteauguay,4,24
+Chatauguay,1,5
+Charlotte,2460,156617
+Charlemagne,1,5
+Chardon,32,494
+Chandler,819,68943
+Champlain,3,12
+Champaign,392,17731
+Chambly,9,57
+Chagrin Falls,55,1779
+Centre Island,1,4
+Central City Village,1,13
+Central City,1,9
+Cecil,8,215
+Cave Creek,84,6851
+Castle Shannon,3,23
+Casablanca,3,9
+Carnegie,38,1359
+Carefree,26,1126
+Canonsburg,69,1271
+Canonsburd,1,6
+Candiac,2,6
+Camargo,1,3
+Caledon Village,1,4
+Caledon East,4,15
+Caledon,17,127
+Burton,8,215
+Buena Vista,2,10
+Brunswick Hills,1,22
+Brunswick,65,1061
+Brossard,107,1107
+Brookpark,3,44
+Brooklyn,32,928
+Brookline,1,35
+Brooklin,4,49
+Brook Park,25,371
+Broadview Heights,42,877
+Bridgeville,63,1815
+Brettin,1,5
+Brentwood,7,96
+Brecksville,27,776
+Bratenahl,2,45
+Brampton,486,7504
+Bradford West Gwillimbury,14,111
+Bradford,23,185
+Braddock,5,130
+Boulder City,53,4668
+Boucherville,22,127
+Bonnyrigg and Lasswade,1,5
+Bonnyrigg,1,4
+Bond Head,1,3
+Bolton,24,216
+Boisbriand,13,74
+Bois-Des-Filion,1,3
+Böblingen,75,991
+Blue Diamond,2,306
+Bloomfield,1,4
+Blawnox,2,13
+Blainville,7,34
+Black Earth,2,23
+Bethel Park,48,1004
+Bernhausen,1,35
+Berg,1,3
+Berea,37,1365
+Ben Avon,1,47
+Beloeil,6,25
+Belmont,47,1641
+Bellvue,2,20
+Bellevue,20,394
+Belleville,8,70
+Beeton,4,24
+Bedford Hts.,1,7
+Bedford Heights,4,59
+Bedford,32,401
+Beauharnois,1,5
+Beaconsfield,9,62
+Beachwood,63,2602
+Bay Village,15,312
+Bath,1,33
+Balerno,1,3
+Baldwin,2,35
+Bainbridge Township,1,16
+Bainbridge,5,73
+Baie-D'urfe,1,10
+Baie-d'Urfé,1,3
+Avondale,170,9688
+Avon Lake,46,1115
+Avon,57,2037
+Avalon,3,65
+Aurora,153,2630
+Auburn Twp,1,7
+Auburn Township,1,22
+Aspinwall,5,78
+Arnold,4,72
+Argos,3,25
+Anthem,18,696
+Anjou,7,70
+Amherst,44,706
+Ambridge,20,314
+Allison Park,27,546
+Alex,1,3
+Ajax,146,1933
+Aichwald,2,6
+Ahwatukee,5,691
+AGINCOURT,1,6
+Aberlady,1,3
